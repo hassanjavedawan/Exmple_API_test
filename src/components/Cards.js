@@ -4,7 +4,7 @@ import React from "react";
 import { Badge, Button, Card } from "keep-react";
 import { Heart, ShoppingCart } from "phosphor-react";
 import ShortenText from "../utils/ShortenText";
-import ToText from "../utils/Totext";
+import ToText from "../utils/Totext"; 
 export const Cards = ({ data }) => {
   // const handleCallApi = () => {
   //   setLoading(true);
